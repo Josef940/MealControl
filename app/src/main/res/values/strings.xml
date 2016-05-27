@@ -1,0 +1,20 @@
+<resources>
+    <string name="OK">OK</string>
+    <string name="app_name">Meal Control</string>
+    <string name="en_home">Home</string>
+    <string name="en_add">Add Meal</string>
+    <string name="en_search">Nutrition</string>
+    <string name="en_searchHint">Search for food nutrition</string>
+    <string name="en_meals">Meals:</string>
+    <string name="en_add_title_hint">Enter meal</string>
+    <string name="en_add_description_hint">Enter description</string>
+    <string name="en_delete">Delete</string>
+    <string name="en_searching">Searching...</string>
+    <string name="en_noresults">No results found</string>
+    <string name="en_cal">Calories (kcal)</string>
+    <string name="en_protein">Protein (g)</string>
+    <string name="en_carbs">Carbohydrates (g)</string>
+    <string name="en_fat">Total fat (g)</string>
+    <string name="en_perg">Per 100 grams</string>
+    <string name="en_nutvalue">Nutritional value</string>
+</resources>

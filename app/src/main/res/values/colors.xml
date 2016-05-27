@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="popup_title">#e69900</color>
+    <color name="popup_body">#ffdd99</color>
+    <color name="main_background">#EBD296</color>
+
+    <color name="mealdone_start">#C0a86448</color>
+    <color name="mealdone_end">#C0e69900</color>
+
+    <color name="meal_title">#A8645A</color>
+    <color name="meal_body">#B26E34</color>
+
+    <color name="menu_color">#a86448</color>
+    <color name="menu_color_clicked">#B46948</color>
+    <color name="white">#ffffff</color>
+
+    <color name="delete_red">#e60000</color>
+
+    <color name="hint">#e0e0d1</color>
+</resources>
